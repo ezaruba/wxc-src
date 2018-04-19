@@ -1,0 +1,11 @@
+[Unit]
+Description=WXCOIN daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=WXCOIN
+ExecStart=/opt/WXCOIN/WXCOINd
+
+[Install]
+WantedBy=multi-user.target

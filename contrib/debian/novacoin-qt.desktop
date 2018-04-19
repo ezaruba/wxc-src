@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WXCOIN
+Comment=WXCOIN P2P Cryptocurrency
+Comment[ru]=WXCOIN, P2P криптовалюта
+Comment[fr]=WXCOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=WXCOIN, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/WXCOIN-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/WXCOIN80.xpm
+MimeType=x-scheme-handler/WXCOIN;
+Categories=Office;

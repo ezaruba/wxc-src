@@ -1,0 +1,2 @@
+debian/bin/WXCOINd usr/bin
+src/WXCOINd usr/lib/WXCOIN

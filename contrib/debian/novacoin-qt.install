@@ -1,0 +1,5 @@
+WXCOIN-qt usr/bin
+share/pixmaps/WXCOIN32.xpm usr/share/pixmaps
+share/pixmaps/WXCOIN80.xpm usr/share/pixmaps
+debian/WXCOIN-qt.desktop usr/share/applications
+debian/WXCOIN-qt.protocol usr/share/kde4/services/

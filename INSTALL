@@ -1,0 +1,9 @@
+Building WXCOIN
+
+See doc/readme-qt.rst for instructions on building WXCOIN Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of WXCOIN.
+
+See doc/build-*.txt for instructions on building WXCOINd,
+the intended-for-services, no-graphical-interface, reference
+implementation of WXCOIN.
